@@ -1,0 +1,15 @@
+{
+  "docs_url": "http://hubbleframework.com/docs",
+  "ignore": [
+    "README.md",
+    ".gitignore"
+  ],
+  "commands": {
+    "Deploy": "hubble deploy",
+    "Execute": "hubble exec",
+    "Test": "hubble test"
+  },
+  "hooks": {
+    "post-unpack": "npm install"
+  }
+}

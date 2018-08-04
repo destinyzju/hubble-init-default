@@ -1,0 +1,21 @@
+{
+  "name": "hubble-init-default",
+  "version": "1.0.0",
+  "dependencies": {
+    "nebulas": "^0.5.5"
+  },  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destinyzju/hubble-init-default.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/destinyzju/hubble-init-default/issues"
+  },
+  "homepage": "https://github.com/destinyzju/hubble-init-default#readme",
+  "moduleResolution": "node"
+}
